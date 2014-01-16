@@ -6,3 +6,4 @@ Truth table:
 
 
 # Analysis
+This wave form shows us that we will get "1" out of our system only in 3 cases. The sort equation for it would be AB+CB
