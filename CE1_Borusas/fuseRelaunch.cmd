@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/C16Gytenis.Borusas.l/Documents/ISE projects/CE1_Borusas/CE1_testbench_isim_beh.exe" -prj "C:/Users/C16Gytenis.Borusas.l/Documents/ISE projects/CE1_Borusas/CE1_testbench_beh.prj" "work.CE1_testbench" 

@@ -1,0 +1,2 @@
+vhdl isim_temp "CE1_shell.vhd"
+vhdl isim_temp "CE1_testbench_shell.vhd"

@@ -1,0 +1,2 @@
+vhdl work "CE1_shell.vhd"
+vhdl work "CE1_testbench_shell.vhd"

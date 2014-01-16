@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/C16Gytenis.Borusas.l/Documents/ISE projects/CE1_Borusas/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/C16Gytenis.Borusas.l/Documents/ISE projects/CE1_Borusas/xst"
+elaborate
+-ifn CE1_shell.prj
+-ifmt mixed
